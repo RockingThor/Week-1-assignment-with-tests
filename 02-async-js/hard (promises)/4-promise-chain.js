@@ -10,12 +10,12 @@ function waitOneSecond() {
 }
 
 function waitTwoSecond() {
-
+ 
 }
 
 function waitThreeSecond() {
 
-}
+} 
 
 function calculateTime() {
 
